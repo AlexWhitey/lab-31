@@ -7,9 +7,10 @@
 
 ### Links and Resources
 * [repo](https://github.com/AlexWhitey/lab-31/)
+* [app-state-connect](https://codesandbox.io/s/l032wr049)
+* [app-state-reducers](https://codesandbox.io/s/4xj07x70nw)
 
 ### Assignment 1
-* [app-state-connect](https://codesandbox.io/s/l032wr049)
 
 #### Documentation
 
@@ -24,7 +25,6 @@ Usage Notes or examples
 Usage Notes or examples
 
 ### Assignment 2
-* [app-state-reducers](https://codesandbox.io/s/4xj07x70nw)
 
 #### Documentation
 
